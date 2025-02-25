@@ -1,6 +1,6 @@
 # Synthetic Chinese-English Dictionary
 
-This project generates a Chinese-English dictionary from scratch using Large Language Models (LLMs). It then reduces hallucinations and improves accuracy through Retrieval-Augmented Generation (RAG) by cross-referencing entries with the standard [CEDICT dictionary](https://cc-cedict.org/editor/editor.php) and Wikipedia. The final dictionary contains 75519 entries and has more detailed definitions and example sentences. The dictionary can be downloaded [here]().
+This project generates a Chinese-English dictionary from scratch using Large Language Models (LLMs). It then reduces hallucinations and improves accuracy through Retrieval-Augmented Generation (RAG) by cross-referencing entries with the standard [CEDICT dictionary](https://cc-cedict.org/editor/editor.php) and Wikipedia. The final dictionary contains 75519 entries and has detailed definitions and example sentences. The dictionary can be downloaded [here](https://github.com/lars76/llm-cn-en-dict/releases/download/v0.1.0/merged_dict.jsonl.gz).
 
 ## Overview
 
