@@ -6,7 +6,7 @@ This project generates a Chinese-English dictionary from scratch using Large Lan
 
 The dictionary generation process follows these steps:
 
-1. **Generate AI-Enhanced Entries**: Create detailed dictionary entries using an LLM
+1. **Generate LLM Entries**: Create detailed dictionary entries using an LLM
 2. **Filter & Validate**: Compare LLM-generated entries against CEDICT for accuracy
 3. **Verification**: Matches pronunciations and enhances with Wikipedia data
 4. **Final Refinement**: Merge the best elements into comprehensive entries
